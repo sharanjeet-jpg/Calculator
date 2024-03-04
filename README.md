@@ -35,11 +35,8 @@ This is a simple calculator project developed using HTML5, CSS3, and JavaScript.
 
 3. Use the calculator to perform basic arithmetic operations.
 
-## Screenshots
-![Calculator Screenshot](/images/calculator-screenshot.png)
-
 ## Demo
-You can view a live demo of the calculator [here](https://your-username.github.io/calculator-project/).
+You can view a live demo of the calculator [here](https://your-username.github.io/calculator/).
 
 ## Contributing
 If you'd like to contribute to this project, please follow these steps:
